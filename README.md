@@ -3,7 +3,7 @@ This is a simple website project for showing how to use Git and GitHub together.
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Updating for emergency fix after stashing.
 
 ## Purpose
 
